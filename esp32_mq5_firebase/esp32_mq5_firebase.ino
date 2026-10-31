@@ -11,13 +11,13 @@
 #define WIFI_PASSWORD "1234abcd"
 
 // 2. Define Firebase Project API Key
-#define API_KEY "AIzaSyAseHslRnydfHQjIDfLERa5BF0bzRm7z8c"
+#define API_KEY ""
 
 // 3. Define Firebase Realtime Database URL
-#define DATABASE_URL "https://gasmonitor-5ec63-default-rtdb.firebaseio.com"
+#define DATABASE_URL ""
 
 // 3.1. Define Database Secret (Legacy)
-#define DATABASE_SECRET "Yd64fPoNqzyEXd5puAHX8FcXd1d0Kfmq20b7ZlNi"
+#define DATABASE_SECRET ""
 
 // 4. Define MQ-5 Sensor Pin
 #define MQ5_PIN 34 // Analog pin for ESP32
